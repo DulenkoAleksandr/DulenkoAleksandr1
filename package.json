@@ -1,0 +1,23 @@
+{
+  "name": "dulenkoaleksandr1",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DulenkoAleksandr/DulenkoAleksandr1.git"
+  },
+  "dependencies": {
+    "dulenkoaleksandr1": "1.0.0",
+    "tea-demonstrationdulenkoaleksandr": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DulenkoAleksandr/DulenkoAleksandr1/issues"
+  },
+  "homepage": "https://github.com/DulenkoAleksandr/DulenkoAleksandr1#readme"
+}
